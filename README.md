@@ -17,7 +17,7 @@ El script realiza las siguientes acciones:
 Para ejecutar el script, usa el siguiente comando con permisos de superusuario:
 
 ```bash
-sudo bash firewall.sh
+sudo ./firewall.sh
 ```
 
 ## Requisitos
